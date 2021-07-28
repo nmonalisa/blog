@@ -1,2 +1,2 @@
-Repositório com as postagens do meu futuro blog!
+Repositório para armazenar postagens do meu futuro blog!
 ## em construção ###
